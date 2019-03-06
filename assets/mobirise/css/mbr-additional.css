@@ -1301,15 +1301,15 @@ body {
 .cid-rjXUKwNpTy {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXUKwNpTy .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rjXUNxa2Jd {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #dab1f1;
 }
 .cid-rjXUNxa2Jd .mbr-section-subtitle {
   color: #767676;
@@ -1320,17 +1320,17 @@ body {
   flex-wrap: wrap;
 }
 .cid-rjXUNxa2Jd .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rjXUNxa2Jd .mbr-author-desc {
   display: block;
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rjXUNxa2Jd .mbr-author-name {
-  color: #767676;
+  color: #dab1f1;
 }
 .cid-rjXUNxa2Jd .mbr-testimonial .panel-item {
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXUNxa2Jd .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -1365,16 +1365,16 @@ body {
   }
 }
 .cid-rjXUQbL1hN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #32064a;
 }
 .cid-rjXUQbL1hN .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-rjXUQbL1hN .number-wrap {
-  color: #4f4943;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1393,7 +1393,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #232323;
+  color: #dab1f1;
 }
 .cid-rjXUQbL1hN .period {
   display: block;
@@ -1415,7 +1415,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #232323;
+  color: #dab1f1;
 }
 .cid-rjXUQbL1hN .countdown-cont {
   max-width: 700px;
@@ -1453,6 +1453,9 @@ body {
     font-size: 0.8rem;
   }
 }
+.cid-rjXUQbL1hN H2 {
+  color: #dab1f1;
+}
 .cid-rjXUSlyNOE .google-map {
   height: 25rem;
   position: relative;
@@ -1482,15 +1485,18 @@ body {
 .cid-rjXUV6BPuD {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #dab1f1;
 }
 .cid-rjXUV6BPuD .mbr-section-subtitle {
-  color: #767676;
+  color: #32064a;
+}
+.cid-rjXUV6BPuD H2 {
+  color: #32064a;
 }
 .cid-rjXV9DCDnk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #32064a;
 }
 .cid-rjXV9DCDnk .pricing {
   padding: 3.3rem;
@@ -1511,7 +1517,7 @@ body {
 }
 .cid-rjXV9DCDnk .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #32064a;
 }
 @media (max-width: 550px) {
   .cid-rjXV9DCDnk .price-figure {
@@ -1525,10 +1531,13 @@ body {
 .cid-rjXV9DCDnk hr {
   margin: 2rem 0;
 }
+.cid-rjXV9DCDnk P {
+  color: #32064a;
+}
 .cid-rjXVgbJNhm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #dab1f1;
 }
 .cid-rjXVgbJNhm .socicon-bg-facebook {
   background: #3e5b98;
@@ -1570,8 +1579,11 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-rjXVgbJNhm .mbr-section-title P {
+  color: #32064a;
+}
 .cid-rjXViAEGrN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/footer-ibat-college-1-996x566.jpg");
 }
